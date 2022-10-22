@@ -13,4 +13,4 @@ print("The original string is : " + test_str)
 res = test_str.replace("_", " ").title().replace(" ", "")
 
 # printing result
-print("The String after changing case : " str(res))
+print("The String after changing case : " + str(res))
